@@ -1,8 +1,5 @@
 import Area
 
-"""import functions from Area module"""
-from Area import circle, square, rectangle, parallelogram, triangle
-
 
 '''test_area file'''
 
